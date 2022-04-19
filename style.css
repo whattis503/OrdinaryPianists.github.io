@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'GangwonEdu_OTFBoldA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEdu_OTFBoldA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@import "reset.css";
+
+* {
+    font-family: "GangwonEdu_OTFBoldA";
+  }
+
+.in-the-office{
+    border-radius: 5%;
+    width: 400px;
+    height: 220px;
+}
